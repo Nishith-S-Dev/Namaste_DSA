@@ -14,10 +14,7 @@ function bubbleSort(arr){
                 arr[j+1]= temp;
                 condition = true;
             }
-        }
-        if(condition===false)
-        {
-            break;
+           BN
         }
     }
     return arr;
